@@ -21,3 +21,23 @@ Virtual host là kĩ thuật để một máy chủ web-server chạy được n
    * Có kiến thức về Linux, hiểu các câu lệnh cơ bản và phân quyên trong Linux
    * Hiểu về kiến trúc php
    * Có kiến thức về sử dụng dns, biết cách cài đặt dns-server
+
+3.**Bắt đầu cài đặt**
+- Bước 1 : Cài apache2 trên máy chủ Ubutu
+```
+apt-get install apache2
+```
+*Ta sẽ tạo 2 trang web có tên là : test.com và example.com trên một máy chủ cài apache2*
+- Bước 2: Dữ liệu trang web thường được lưu ở thư mục `var/www`. Nên ta sẽ tạo 2 thư mục là test.com và example.com và trong mỗi thư mục đó tạo file có tên là public_html.
+```
+mkdir -p /var/www/test.com/public_html
+mkdir -p /var/www/example.com/public_html
+```
+*tùy chọn -p dùng để tạo luôn 2 thư mục test.com và example.com khi trong thư mục /var/www chưa có*
+- Bước 3:
+
+
+
+
+
+
