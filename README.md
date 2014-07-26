@@ -13,5 +13,8 @@ Virtual host là kĩ thuật để một máy chủ web-server chạy được n
 |test.com       | 192.168.1.108         | test thành công trang web |
 |example| 192.168.1.108 | example thành công trang web |
 
----
-1. 
+----
+2.  Yều cầu kiến thức cần thiết
+
+   * Có kiến thức về Linux, hiểu các câu lệnh cơ bản và phân quyên trong Linux
+   *
