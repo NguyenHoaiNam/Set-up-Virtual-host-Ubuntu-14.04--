@@ -17,4 +17,5 @@ Virtual host là kĩ thuật để một máy chủ web-server chạy được n
 2.  Yều cầu kiến thức cần thiết
 
    * Có kiến thức về Linux, hiểu các câu lệnh cơ bản và phân quyên trong Linux
-   *
+   * Hiểu về kiến trúc php
+   * Có kiến thức về sử dụng dns, biết cách cài đặt dns-server
